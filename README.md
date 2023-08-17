@@ -33,12 +33,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="30" alt="eclipseide logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
