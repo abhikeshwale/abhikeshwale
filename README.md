@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhikesh and I'm a JLPT N2 Certified Web Application Engineer from India. Currently Living in Japan.</h2>
+<h2 align="left">Hi 👋! My name is Abhikesh and I'm a JLPT N2 Certified Web Application Engineer from India. Currently building らくシフ(Rakushifu) at 株式会社クロスビット(X-bit inc.) in Japan.</h2>
 
 ###
 
